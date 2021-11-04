@@ -1,0 +1,1 @@
+# Решение проблем из репозитория [type-challange](https://github.com/type-challenges/type-challenges)
